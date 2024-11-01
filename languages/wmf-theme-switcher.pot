@@ -1,0 +1,155 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WMF Mobile Redirector\n"
+"POT-Creation-Date: 2020-05-18 18:56+0300\n"
+"PO-Revision-Date: 2013-12-04 14:30+0200\n"
+"Last-Translator: \n"
+"Language-Team: Webbu\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wmf-theme-switcher.php:97
+msgid "WMF Mobile Theme Switcher"
+msgstr ""
+
+#: ../wmf-theme-switcher.php:97
+msgid "WMF Theme Switcher"
+msgstr ""
+
+#: ../wmf-theme-switcher.php:137
+msgid "ERROR (WMF Mobile Theme Switcher)"
+msgstr ""
+
+#: ../wmf-theme-switcher.php:138
+#, php-format
+msgid "We could not create a folder in your wp-content directory to place mu-plugins to disable plugin command while switching themes. Please add this code %s to your wp-config.php file to enable it."
+msgstr ""
+
+#: ../wmf-theme-switcher.php:140
+msgid "Dismiss this notice."
+msgstr ""
+
+#: ../wmf-theme-switcher.php:259
+msgid "Copied!"
+msgstr ""
+
+#: ../wmf-theme-switcher.php:275
+msgid "iPhone Theme"
+msgstr ""
+
+#: ../wmf-theme-switcher.php:276
+msgid "Android Theme"
+msgstr ""
+
+#: ../wmf-theme-switcher.php:277
+msgid "Other Tablet Devices"
+msgstr ""
+
+#: ../wmf-theme-switcher.php:278
+msgid "Other Mobile Devices"
+msgstr ""
+
+#: ../wmf-theme-switcher.php:279
+msgid "iPad Theme"
+msgstr ""
+
+#: ../wmf-theme-switcher.php:280
+msgid "Windows Phone Theme"
+msgstr ""
+
+#: ../wmf-theme-switcher.php:281
+msgid "BlackBerry Theme"
+msgstr ""
+
+#: ../wmf-theme-switcher.php:301
+msgid "Webbu Mobile Framework - Theme Switcher Options"
+msgstr ""
+
+#: ../wmf-theme-switcher.php:304
+msgid "Theme Selection"
+msgstr ""
+
+#: ../wmf-theme-switcher.php:326
+msgid "Please Select"
+msgstr ""
+
+#: ../wmf-theme-switcher.php:352
+msgid "Global Plugin Selection"
+msgstr ""
+
+#: ../wmf-theme-switcher.php:353
+msgid "You can select plugins to disable from the below list to disable while using Mobile Device Theme."
+msgstr ""
+
+#: ../wmf-theme-switcher.php:367
+msgid "Please remove all selected plugins to disable this system."
+msgstr ""
+
+#: ../wmf-theme-switcher.php:379
+msgid "Manually Trigger Lifespan"
+msgstr ""
+
+#: ../wmf-theme-switcher.php:380
+msgid "If you planning to use manually trigger links, please select a lifespan for it."
+msgstr ""
+
+#: ../wmf-theme-switcher.php:382
+msgid "Until Browser is Closed"
+msgstr ""
+
+#: ../wmf-theme-switcher.php:383
+msgid "Hour"
+msgstr ""
+
+#: ../wmf-theme-switcher.php:384 ../wmf-theme-switcher.php:385
+#: ../wmf-theme-switcher.php:386 ../wmf-theme-switcher.php:387
+msgid "Hours"
+msgstr ""
+
+#: ../wmf-theme-switcher.php:388
+msgid "Day"
+msgstr ""
+
+#: ../wmf-theme-switcher.php:389
+msgid "Week"
+msgstr ""
+
+#: ../wmf-theme-switcher.php:390
+msgid "Month"
+msgstr ""
+
+#: ../wmf-theme-switcher.php:394
+msgid "Save Changes"
+msgstr ""
+
+#: ../wmf-theme-switcher.php:398
+msgid "Manually Trigger Links"
+msgstr ""
+
+#: ../wmf-theme-switcher.php:399
+msgid "You can use the below links to activate and deactivate the mobile theme manually. These links activate the theme and use it until you click to return to the desktop theme link."
+msgstr ""
+
+#: ../wmf-theme-switcher.php:400
+msgid "Desktop Theme"
+msgstr ""
+
+#: ../wmf-theme-switcher.php:400 ../wmf-theme-switcher.php:402
+msgid "Click to copy"
+msgstr ""
+
+#: ../wmf-theme-switcher.php:404
+msgid "Note, this is a cookie-based system, and it will add cookies to remember the device."
+msgstr ""
+
+#: ../wmf-theme-switcher.php:412
+#, php-format
+msgid "Please use %sthis link%s to send us support questions."
+msgstr ""
